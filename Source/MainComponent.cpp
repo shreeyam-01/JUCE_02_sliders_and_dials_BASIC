@@ -16,7 +16,7 @@ MainComponent::MainComponent()
     addAndMakeVisible(dial2);
     addAndMakeVisible(dial3);
 
-    setSize (300, 400);
+    setSize (400, 400);
 }
 
 MainComponent::~MainComponent()
